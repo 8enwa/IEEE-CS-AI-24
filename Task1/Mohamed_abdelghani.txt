@@ -1,0 +1,54 @@
+# problem # one 
+firit i made a list of numbers 
+asked the user to Enter a number & finally enter -1 to stop
+using a while loop if the number is not equal to 1 it will be added to the list 
+using max , min builtin functions we will find the desired numbers and print them 
+-------------------------------------------------------------------------------.
+# problem # two
+asked the user to enter the day , month and year 
+then took cared of ppossible possibilities 
+then simply printed the date 
+--------------------------------------------------------------------------------. 
+# problem # three
+asked the user to Enter a number
+made a variable named factorial  initialized with one 
+if the entered num equal to 0 factorial is 1
+if the entered num is negative not allowed printed 
+else using while loop multiplying the factorial to the number i until they are equal to each other
+--------------------------------------------------------------------------------.
+# problem # four 
+asked the user to Enter a sentence 
+made two empty variables 
+used for loop to search about space in the sentence
+  if it is not a space add the char to the word
+until finding space  put the word to the beginning of the sentence 
+then  continue the sentence until it ends 
+then print the sentence in reverse.
+--------------------------------------------------------------------------------.
+ # problem # five 
+asked the user to Enter a word
+reversed the word with for loop 
+Checked if the original word is equal to the reversed word or nnot 
+then printed 
+--------------------------------------------------------------------------------.
+ # problem # six
+asked the user to Enter a num
+made a variable named sum initialized with 0
+for loop from 1 to number 
+if counter devisible  by 2 add the counter to sum 
+then print 
+--------------------------------------------------------------------------------.
+# problem # seven
+asked the user to Enter a num
+mad a list to store factors 
+if number is devisible  by 2 divid the number by 2 
+using for loop from 3 up to the square root of the number
+check if its devisible by odd nums 
+then print 
+--------------------------------------------------------------------------------.
+# problem # eight
+asked the user to Enter a + num
+using for loop from  1 to num - 1
+to see the devisors and summing them 
+ and checks if it's equal to the num or not  
+
