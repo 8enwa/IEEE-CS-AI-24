@@ -1,0 +1,21 @@
+#1 -define is_leap function with argument year if year is devisible by 4 and not by 100 or devisible by 400 return true else not leap 
+
+#2- define a function 2nd lowest 
+inttialize  variables with infinity to  gurantee that each value is lower thann it 
+Iterate through list using for and if to find lowest and 2nd lowest
+retturn 2nd lowest if its one grade or even more 
+
+#3 - inttialize  variables with minus infinity to  gurantee that each value is greater thann it
+Iterate through list using for and if to find largest and 2nd largest
+
+#4 - Performing different list operations
+
+#5 - define a list contains 3 dictionaries each  one has a titel ,auther name and date 
+
+#6 -using try catch to handel  error in intered value 
+
+#7 - passed the path , opened the file ,split the line into words , using for loop iterates through tthe list to count the repeted words 
+
+#8 _ (pass)
+#9 - define function to get intersection between two sets using method intersection and return the result 
+#10 - generate random num with randiate compare with if statment 
